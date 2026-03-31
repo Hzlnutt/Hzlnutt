@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Timothy and I'm a Junior Software Developer, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Timothy and I'm a Junior Software Developer & IoT Engineer, from Indonesia</h2>
 
 ###
 
